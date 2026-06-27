@@ -11,6 +11,7 @@ binding = "db"			#d1数据库绑定名默认不可修改
 database_name = "email"		#d1数据库名字
 database_id = "ade26f60-f25e-4e85-9c6e-241412b723ac"		#d1数据库id
 
+
 [[kv_namespaces]]
 binding = "kv"			#kv绑定名默认不可修改
 id = "f30a0f92d36d49df8a49b3534a2a7c0d"					#kv数据库id
